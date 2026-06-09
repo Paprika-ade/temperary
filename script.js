@@ -28,7 +28,7 @@ const userIcon = L.divIcon({
 // 임의 쓰레기통 데이터
 const bins = [
     {
-        name: "학생회관 앞 쓰레기통",
+        name: "제2 과학관",
         lat: 37.2950,
         lng: 126.9758,
         type: "분리수거",
@@ -36,7 +36,7 @@ const bins = [
         distance: "약 80m"
     },
     {
-        name: "중앙도서관 입구",
+        name: "제2 과학관",
         lat: 37.2948,
         lng: 126.9748,
         type: "재활용",
@@ -44,7 +44,7 @@ const bins = [
         distance: "약 120m"
     },
     {
-        name: "제1과학관 앞",
+        name: "제1공학관 입구",
         lat: 37.2942,
         lng: 126.9763,
         type: "일반쓰레기",
@@ -52,7 +52,7 @@ const bins = [
         distance: "약 160m"
     },
     {
-        name: "기숙사 정문",
+        name: "제1공학관",
         lat: 37.2939,
         lng: 126.9769,
         type: "분리수거",
@@ -60,7 +60,7 @@ const bins = [
         distance: "약 230m"
     },
     {
-        name: "대운동장 입구",
+        name: "생명공학관",
         lat: 37.2960,
         lng: 126.9745,
         type: "일반쓰레기",
